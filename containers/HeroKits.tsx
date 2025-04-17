@@ -13,7 +13,6 @@ export const HeroKits = () => (
             <Badge variant={"outline"}>{content.badge.text}</Badge>
           </div>
           <div className="flex gap-4 flex-col">
-            
            
           </div>
           <div className="flex flex-row gap-4 cta-btn">

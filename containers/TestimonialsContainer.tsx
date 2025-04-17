@@ -8,7 +8,6 @@ export const TestimonialsContainer = () => {
   const [current, setCurrent] = useState(0);
 
   const testimonials = testimonialsData.testimonials || [];
-
   return (
     <div className="w-full mb-24" id="depoimentos">
       <div className="container mx-auto z-10 relative">
