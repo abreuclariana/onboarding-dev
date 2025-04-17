@@ -1,0 +1,51 @@
+{
+  "logos": [
+    {
+      "src": "logo-descola.png",
+      "alt": "Descola Cursos",
+      "width": 124,
+      "height": 87
+    },
+    {
+      "src": "logo-upwork.png",
+      "alt": "UpWork Clients",
+      "width": 120,
+      "height": 32
+    },
+    {
+      "src": "logo-github.png",
+      "alt": "GitHub Templates",
+      "width": 74,
+      "height": 74
+    },
+   
+    {
+      "src": "logo-queimou.png",
+      "alt": "Queimou.Ai",
+      "width": 124,
+      "height": 40
+    },
+    {
+      "src": "logo-adj.png",
+      "alt": "Associação Diabetes Brasil",
+      "width": 124,
+      "height": 49
+    },
+    {
+      "src": "logo-2.png",
+      "alt": "Kit Programação Web - Edu4Dev",
+      "width": 124,
+      "height": 22
+    }
+  ],
+  "decorations": [
+    { "src": "decor7.png", "width": 75, "height": 78, "alt": "" },
+    { "src": "decor2.png", "width": 75, "height": 78, "alt": "" },
+    { "src": "decor4.png", "width": 55, "height": 58, "alt": "" },
+    { "src": "decor5.png", "width": 95, "height": 83, "alt": "" }
+  ],
+  "header": {
+    "text": "Quem Está Usando?",
+    "class": "text-3xl md:text-3xl max-w-2xl text-center font-regular sedgwickAve font-bold m-auto mb-10"
+  }
+}

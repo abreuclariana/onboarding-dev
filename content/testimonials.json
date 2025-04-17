@@ -1,0 +1,11 @@
+{
+  "title": "O que estão dizendo",
+  "testimonials": [
+   
+    {
+      "label": "Clariana é muito talentosa",
+      "content": "Clariana has great knowledge of Next.js and web development. She really stands out, I trust and recommend her.",
+      "author": "MB Corp, São Paulo - BR"
+    }
+  ]
+}

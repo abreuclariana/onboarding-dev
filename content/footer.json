@@ -1,0 +1,31 @@
+{
+  "navigationItems": [
+    {
+      "title": "Nossa mentoria",
+      "description": "Managing a small business today is already tough.",
+      "items": [
+        {
+          "title": "Preço",
+          "href": "/#pricing"
+        },
+        {
+          "title": "Depoimentos",
+          "href": "/#depoimentos"
+        },
+        {
+          "title": "FAQ",
+          "href": "/#faq"
+        }
+      ]
+    }
+  ],
+  "companyInfo": {
+    "name": "Edu2Dev",
+    "address": ["Salvador", "BA"]
+  },
+  "logo": {
+    "src": "/assets/images/logo-2.png",
+    "width": 175,
+    "height": 31
+  }
+}

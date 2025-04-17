@@ -1,0 +1,39 @@
+{
+  "badge": "FAQ",
+  "title": "Perguntas Frequentes",
+  "description": "A sua dúvida, pode ser a dúvida do próximo. Ainda mais em uma área cheia de novos nomes, é sempre bom saber quais são as perguntas básicas de cada área.",
+  "button": {
+    "text": "Junte-se a Nós no Discord",
+    "url": "https://discord.gg/p9zFrmuC"
+  },
+  "image": "/assets/images/decor3.png",
+  "faqItems": [
+    {
+      "label": "O que está incluso na Mentoria de Programação?",
+      "content": "Temos um acompanhamento semanal atualmente, possuindo exemplos na pratica em como aplicar para vagas no exterior."
+    },
+    {
+      "label": "A mentoria é adequado para iniciantes?",
+      "content": "Sim, a Mentoria é ideal para quem está començando. Tanto para quem está começando quanto para quem já tem experiência básica ou média."
+    },
+    {
+      "label": "O que tem na Mentoria Dev?",
+      "content": "sistemas Next.js, trilhas exclusivas, FAQ e canal no Discord."
+    },
+    
+    {
+      "label": "Como funciona a compra?",
+      "content": "A compra é feita via Pix ou cartão."
+    },
+    
+    {
+      "label": "Quem é Clariana Abreu?",
+      "content": "Criador da Edu2Dev, especialista em desenvolvimento e empreendedorismo tecnológico. Faz websites desde 2022."
+    },
+    
+    {
+      "label": "O que são as trilhas de aprendizado?",
+      "content": "Roteiros guiados com dicas práticas para alcançar objetivos profissionais na upwork."
+    }
+  ]
+}

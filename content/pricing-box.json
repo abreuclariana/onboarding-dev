@@ -1,0 +1,65 @@
+{
+  "sectionTitle": "Tabela de Preço",
+  "sectionSubtitle": "Adquira Já o Sua Mentoria!",
+  "sectionDescription": "O plano dar acesso a mentoria.",
+  "gifImages": {
+    "src": "/assets/images/edu4dev.gif",
+    "width": 352,
+    "height": 198,
+    "alt": ""
+  },
+  "decorImage": {
+    "src": "/assets/images/decor1.png",
+    "width": 800,
+    "height": 829,
+    "alt": ""
+  },
+  "plans": [
+   
+    {
+      "title": "Mentoria Dev",
+      "description": "Oferecemos mentoria para desenvolvedores e consultoria para empresas.",
+      "price": "R$150",
+      "priceUnit": "/ hora",
+      "features": [
+        {
+          "title": "Mentoria Técnica",
+          "items": [
+            "Next.js",
+            "Gatsby.js",
+            "Node.js",
+            "Javascript",
+            "WordPress",
+            "GitHub Action",
+            "CPanel p/ WP",
+            "Windows p/ Node.js Dev"
+          ]
+        },
+        {
+          "title": "Mentoria de Carreira",
+          "items": [
+            "Mentoria das Trilhas",
+            "Dev Iniciante",
+            "Dev Experiente",
+            "Dev Especialista",
+            "GitHub Developer",
+            "Front-End",
+            "Back-End",
+            "DevOps",
+            "CTO"
+          ]
+        },
+        {
+          "title": "Tecnologia e Gerenciamento",
+          "items": [
+            "OpenAi e Inteligência Artificial",
+            "Marketing Digital",
+            "Sistema de OKR's e Planejamento"
+          ]
+        }
+      ],
+      "purchaseLink": "https://buy.stripe.com/7sI9DVdzo5cvglG7su",
+      "purchaseLabel": "Inserir no Carrinho"
+    }
+  ]
+}

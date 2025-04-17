@@ -1,0 +1,16 @@
+{
+  "badge": {
+    "text": "Mentoria Educacional"
+  },
+ 
+  "ctaButton": {
+    "href": "/#pricing",
+    "text": "Entre em contato comigo!"
+  },
+  "image": {
+    "src": "/assets/images/kit-programacao.png",
+    "alt": "kit programação",
+    "width": 400,
+    "height": 351
+  }
+}

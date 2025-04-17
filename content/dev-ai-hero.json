@@ -1,0 +1,15 @@
+{
+  "badge": "Kit Dev AI",
+  "title": "Tenha a <strong>I.A.</strong> nas mãos",
+  "description": "A profissão mais desejada do momento, com o meu conhecimento saia do 'nunca pare de aprender' e entre no '<strong>Aprenda De Uma Vez Por Todas</strong>'!",
+  "ctaButton": {
+    "href": "/#pricing",
+    "text": "Adquira Já Sua Mentoria"
+  },
+  "image": {
+    "src": "/assets/images/kit-ai-times.png",
+    "alt": "mentoria programação dev ai",
+    "width": 470,
+    "height": 415
+  }
+}

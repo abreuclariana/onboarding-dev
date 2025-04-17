@@ -1,0 +1,17 @@
+{
+ 
+
+  "badge": {
+    "text": "Trilhas do Saber"
+  },
+  "title": {
+    "text": "A Trilha Certa Para Você!"
+  },
+  "description": {
+    "text": "A <strong>Trilha Ignição</strong> vai moldar o nosso método para que fique alinhado a você. Escolha o seu destino: <wbr /><strong>Trilha Programação Web</strong>,<wbr /><strong>Trilha Carreira Internacional</strong> e/ou <wbr />"
+  },
+  "ctaButton": {
+    "href": "/#pricing",
+    "text": "Entre em contato comigo!"
+  }
+}

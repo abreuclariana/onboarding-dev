@@ -1,0 +1,14 @@
+{
+  "logo": {
+    "src": "/assets/images/logo3.png",
+    "alt": "Alt Text",
+    "width": 520,
+    "height": 275
+  },
+  "decorImage": {
+    "src": "/assets/images/decor1.png",
+    "alt": "Alt Text",
+    "width": 800,
+    "height": 829
+  }
+}
