@@ -30,16 +30,8 @@ export const TestimonialsContainer = () => {
                 </div>
                 <p className="flex flex-row gap-2 text-sm items-center justify-center">
                   <span className="text-muted-foreground">By</span>
-                  <Avatar className="h-6 w-6">
-                    <AvatarImage
-                      src={
-                        testimonials[current].avatar ||
-                        `/assets/images/logo-github.png`
-                      }
-                      alt={testimonials[current].author}
-                    />
-                    <AvatarFallback>CN</AvatarFallback>
-                  </Avatar>
+                  
+                    
                   <span>{testimonials[current].author}</span>
                 </p>
               </div>
