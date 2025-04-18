@@ -1,6 +1,6 @@
-# Next Boilerplate com TypeScript, Stripe e ShadCN UI
+# Next Boilerplate com TypeScript e ShadCN UI
 
-Este é um boilerplate para projetos Next.js com TypeScript, Stripe e ShadCN UI, preparado para desenvolvimento rápido de aplicações web modernas. Abaixo, listamos alguns dos principais pacotes usados para aprimorar a funcionalidade e a experiência do usuário.
+Este é um boilerplate para projetos Next.js com TypeScript e ShadCN UI, preparado para desenvolvimento rápido de aplicações web modernas. Abaixo, listamos alguns dos principais pacotes usados para aprimorar a funcionalidade e a experiência do usuário.
 
 ## Principais Pacotes
 
@@ -8,9 +8,6 @@ Este é um boilerplate para projetos Next.js com TypeScript, Stripe e ShadCN UI,
 
 - Este projeto utiliza a biblioteca `@fontsource` para importar e gerenciar fontes personalizadas como **Work Sans**, **Bangers** e **Rammetto One**. Essa biblioteca facilita a integração de fontes diretamente no projeto, sem necessidade de links externos. Além disso, possibilita a aplicação de fontes com estilos variados para diferentes seções da aplicação.
 
-### 2. **@stripe/react-stripe-js e @stripe/stripe-js**
-
-- Estes pacotes são usados para integrar o sistema de pagamento Stripe, permitindo gerenciar pagamentos de forma segura e eficiente. O `@stripe/react-stripe-js` fornece componentes React para o Stripe, enquanto o `@stripe/stripe-js` lida com a integração da API, simplificando o processo de configuração de pagamentos.
 
 ### 3. **@radix-ui/react-accordion e outros componentes Radix UI**
 
